@@ -107,7 +107,7 @@ Transition_Table_Characters[(0, '|')] = 1
 start_state_Characters = 0
 accept_states_Characters = {1}
 ObjectOfCharacters= NFA(states_Characters, alphabet_Characters, Transition_Table_Characters, start_state_Characters, accept_states_Characters)
-
+..
 
 
 #NFA for alphabets
